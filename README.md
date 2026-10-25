@@ -46,7 +46,7 @@ docs/fig_framework.*                            # framework diagram (Graphviz so
 ## Reproduce
 
 ```bash
-pip install -r requirements.txt
+pip install -r environment/requirements.txt
 cd code
 python main.py            # full study: 10 seeds x 24,000 encounters (about 10 min on 2 cores)
 python main.py --quick    # smoke test: 2 seeds x 9,000 encounters (about 3 min)
