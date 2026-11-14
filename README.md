@@ -1,5 +1,7 @@
 # RailConflict-PSCL
 
+[![smoke-test](https://github.com/RakshitRPathak/RailConflict-PSCL/actions/workflows/ci.yml/badge.svg)](https://github.com/RakshitRPathak/RailConflict-PSCL/actions/workflows/ci.yml)
+
 Code and data for the manuscript
 
 > R. R. Pathak, S. Vibhanshu, and R. Kumar, "Physics-Shielded Conformal Learning for Network-Aware Railway Collision-Risk Assessment Under Degraded Observations," submitted to *IEEE Access*, 2026.
